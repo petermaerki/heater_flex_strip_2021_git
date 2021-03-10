@@ -1,0 +1,32 @@
+resistor 
+71-RCP1206W100RGEB 100 Ohm 1206 2.4W 1.5 CHF
+
+ntc
+667-ERT-J1VR103G  10 kOhm  0603
+
+Kondensator
+187-CL10A105KB8NNNC  0603 1uF 50V
+
+Darlington
+522-FMMT634TA
+
+
+pro modul: 1.6Watt
+bei 10mm pro meter: 160Watt pro meter
+
+
+endoskope: durchmesser 3.5 oder 5.5 mm
+
+
+
+pcbway:
+flexible pcbway
+2 layer
+440mm x 15mm?
+FPC thickness 0.23mm
+top PI 0.05mm ??? zum sauber abdecken der flügel?
+stiffner bottom 0.3mm FR4
+ENIG
+1.5 oz Cu
+
+15 stück 171 usd
