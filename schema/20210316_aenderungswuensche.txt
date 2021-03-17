@@ -1,3 +1,10 @@
+
+
+-------------------- Erledigt 17.03.2021 AB ---------------------
+
+R3  820 ist zu klein. Vorschlag: besser 1k2 Pv = 0.1W (0603)
+-----------------------------------------------------------------
+
 Peter Maerki 2021-03-15_20_23_30
 
 So cool! Perfekt!
@@ -5,4 +12,5 @@ So cool! Perfekt!
 R3 alt: 470 neu: 820
 
 Idee: 30 cm breit und mehrere Bahnen in der Höhe. Dazwischen mit Stegen aus nur Kapton verbunden.
-Damit kannst du es besser bestücken als wenn es eine einzelne Bahn ist. Wenn die Komponenten drauf sind kann man mit einer Scheere Streifen schneiden.
+Damit kannst du es besser bestücken als wenn es eine einzelne Bahn ist. 
+Wenn die Komponenten drauf sind kann man mit einer Scheere Streifen schneiden.
