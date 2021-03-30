@@ -4,17 +4,19 @@ cool!
 
 Schema
 
-R: neu 820
+R3: neu 470 0603 0.33W
+R4: 100 2.4W
 C1: 10uF 25V
+Kosmetik: C1 in einer Linie mit D1
 
 Stückliste
 
 C1	81-GRM188R61E106MA3J
 R1	667-ERA-3AED104V  oder irgend sonst ein 0603 100k, egal
 R2	667-ERT-J1VR103G
-R3	667-ERA-3AED821V
+R3	71-CRCW0603470RJNEAH
 R4	71-RCP1206W100RGEB
 T1	522-FMMT634TA
 D1	710-150060GS55040
 
-Bitte bestücken eine oder zwei Reihne
+Bitte bestücken eine oder zwei Reihen.
