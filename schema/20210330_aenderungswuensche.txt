@@ -1,0 +1,20 @@
+Peter Maerki 2021-03-30_17_20_20
+
+cool!
+
+Schema
+
+R: neu 820
+C1: 10uF 25V
+
+Stückliste
+
+C1	81-GRM188R61E106MA3J
+R1	667-ERA-3AED104V  oder irgend sonst ein 0603 100k, egal
+R2	667-ERT-J1VR103G
+R3	667-ERA-3AED821V
+R4	71-RCP1206W100RGEB
+T1	522-FMMT634TA
+D1	710-150060GS55040
+
+Bitte bestücken eine oder zwei Reihne
