@@ -1,0 +1,16 @@
+Artikel:					Beschreibung							Stück	Preis@100Stk.
+----------------------------------------------------------------------------------------------
+
+281-GRM188R61E106MA			10UF 25V 20% 0603						1		0.142
+
+667-ERT-J1VR103G			NTC-Thermistoren 0603 10kOhms 2%		1		0.080
+
+667-ERA-3AED104V			SMD 0603 100Kohms 25ppm 0.5% 			1		0.039
+
+71-CRCW0603470RJNEAH		SMD 0.33W 470ohms 5% High Power			1		0.052
+
+71-RCP1206W100RGEB			SMD 2.4watt 100ohms 2% 1206				1		1.190
+
+522-FMMT634TA				Darlington-Transistoren NPN				1		0.353
+
+710-150060GS55040			LED 0603 Green 520nm					1		0.178
